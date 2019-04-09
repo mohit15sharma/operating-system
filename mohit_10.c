@@ -23,4 +23,4 @@ main()
 			printf("\nThe total cylinders covered are : %d",distance_covered);
 			flag = false;
 		}
-}
+
